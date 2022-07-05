@@ -49,3 +49,29 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.box-shadow {
+    box-shadow: 5px 5px 40px grey;
+    margin-left: -24px;
+    margin-right: 69px;
+    margin-bottom: 91px;
+}
+
+.ex-img {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 50px;
+}
+
+#full-stack {
+    border-left: 10px solid tomato;
+}
+
+#baby-web {
+    border-left: 10px solid blue;
+}
+
+footer {
+    text-align: center;
+}
